@@ -1,8 +1,3 @@
-تمام ✅ — ده ملف **Markdown** مختصر وواضح يشرح الهدف من **Builder Pattern**
-تقدر تحفظه باسم:
-📄 `BuilderPattern.md`
-
----
 
 ````markdown
 # 🧱 Builder Pattern

@@ -1,5 +1,5 @@
 import {Router} from 'express';
-import DatabaseSingleton from '../patterns/Singlton/DatabaseSingleton.js';
+import DatabaseSingleton from '../Creational-Patterns/Singlton/DatabaseSingleton.js';
 
 const router = Router();
 

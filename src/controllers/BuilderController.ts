@@ -1,5 +1,5 @@
 import type { Request, Response } from "express";
-import { ArticleBuilder } from "../patterns/Builder/ArticleBuilder.js";
+import { ArticleBuilder } from "../Creational-Patterns/Builder/ArticleBuilder.js";
 
 export const createArticle = (req: Request, res: Response) => {
   const { title, content, author, tags, image, publish } = req.body;

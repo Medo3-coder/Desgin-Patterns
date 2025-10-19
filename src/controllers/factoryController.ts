@@ -1,5 +1,5 @@
 import {Router} from "express";
-import { NotificationFactory } from "../patterns/Factory-method/NotificationFactory.js";
+import { NotificationFactory } from "../Creational-Patterns/Factory-method/NotificationFactory.js";
 
 
 
